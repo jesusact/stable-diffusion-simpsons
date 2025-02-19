@@ -66,14 +66,11 @@ if subject:
         prompt = prompt.replace("{place}", places[places.index(place_choice)]).replace("{time}", times[times.index(time_choice)])
     elif category == "Flor":
         prompt = prompt.replace("{flower}", flowers[flowers.index(flower_choice)]).replace("{time}", times[times.index(time_choice)]).replace("{object}", objects[objects.index(object_choice)])
-    
-    st.sidebar.write("### Prompt generado:")
-    st.sidebar.text_area("", prompt, height=150)
 
     # Botón para generar imagen
     if st.sidebar.button("Generar Imagen"):
         with st.spinner("Generando imagen..."):
-            payload = {"prompt": prompt, "steps": 30, "cfg_scale": 7, "width": 512, "height": 512}
+            payload = {"prompt": prompt, "steps": 30, "cfg_scale": 7, "width": 300, "height": 300}
             response = requests.post(API_URL, json=payload)
             if response.status_code == 200:
                 image_data = response.json()["images"][0]
