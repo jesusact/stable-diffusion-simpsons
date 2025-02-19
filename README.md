@@ -1,5 +1,7 @@
 # Generador de Imágenes AI de Los Simpsons 😶‍🌫️
 
+![Generador de Imágenes AI de Los Simpsons](https://raw.githubusercontent.com/jesusact/stable-diffusion-simpsons/refs/heads/main/assets/banner-simpsons.webp)
+
 ## Descripción
 Este proyecto es una aplicación web creada con Streamlit que permite generar imágenes de estilo *Los Simpsons* utilizando Stable Diffusion WebUI. Los usuarios pueden seleccionar diferentes categorías y personalizar los detalles de la imagen, como el entorno, la iluminación y el momento del día.
 
