@@ -42,13 +42,22 @@ Este proyecto es una aplicación web creada con Streamlit que permite generar im
 5. Personaliza los detalles como tipo de imagen, ubicación, iluminación o momento del día.
 6. Pulsa "Generar Imagen" y espera el resultado.
 
-## Contribuyentes
+## Ejemplos de Generación
+### Interfaz en uso
+Ejemplo de la aplicación generando una imagen de Vin Diesel en un set de película con luces de focos.
+
+![Imagen interfaz](https://github.com/jesusact/stable-diffusion-simpsons/blob/673a508e70c998cbd7f6a2ca278aec15d19dffbd/assets/imagen_app.png)
+
+### Otras Imágenes Generadas
+#### Donald Trump en un jardín
+![Donald Trump](https://github.com/jesusact/stable-diffusion-simpsons/blob/673a508e70c998cbd7f6a2ca278aec15d19dffbd/assets/trump_generado.png)
+
+#### Un león al atardecer
+![León](https://github.com/jesusact/stable-diffusion-simpsons/blob/673a508e70c998cbd7f6a2ca278aec15d19dffbd/assets/leon.png)
+
+#### Leo Messi en una biblioteca
+![Messi](https://github.com/jesusact/stable-diffusion-simpsons/blob/673a508e70c998cbd7f6a2ca278aec15d19dffbd/assets/messi.png)
+
+### Desarrolladores
 - [@jesusact](https://github.com/jesusact)  
 - [@boorjabraavo21](https://github.com/boorjabraavo21)
-
-
-## Contribuyentes
-- [@jesusact](https://github.com/jesusact)  
-- [@boorjabraavo21](https://github.com/boorjabraavo21)  
-
-
