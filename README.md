@@ -1,14 +1,14 @@
-# Generador de Imágenes AI de Los Simpsons 😶‍🌫️
+# Generador de Imágenes AI de Los Simpsons 🎨
 
 ![Generador de Imágenes AI de Los Simpsons](https://raw.githubusercontent.com/jesusact/stable-diffusion-simpsons/refs/heads/main/assets/banner-simpsons.webp)
 
 ## Descripción
-Este proyecto es una aplicación web creada con Streamlit que permite generar imágenes de estilo *Los Simpsons* utilizando Stable Diffusion WebUI. Los usuarios pueden seleccionar diferentes categorías y personalizar los detalles de la imagen, como el entorno, la iluminación y el momento del día.
+Este proyecto es una aplicación web creada con Streamlit que permite generar imágenes de estilo *Los Simpsons* utilizando Stable Diffusion WebUI. Los usuarios pueden seleccionar diferentes categorías y personalizar los detalles de la imagen, como el tipo, la ubicación, la iluminación y el momento del día.
 
 ## Características
 - Generación de imágenes a partir de prompts estructurados.
-- Varias categorías de prompts: personajes, animales, biomas, lugares famosos y flores.
-- Personalización de detalles como iluminación, ubicación y momento del día.
+- Categorías de prompts disponibles: personajes y animales.
+- Personalización de detalles como tipo de imagen, ubicación, iluminación y momento del día.
 - Integración con Stable Diffusion WebUI para la generación de imágenes.
 - Interfaz intuitiva construida con Streamlit.
 
@@ -37,8 +37,15 @@ Este proyecto es una aplicación web creada con Streamlit que permite generar im
    streamlit run app.py
    ```
 2. Abre el navegador en la URL proporcionada por Streamlit.
-3. Selecciona una categoría y personaliza los detalles de la imagen.
-4. Pulsa "Generar Imagen" y espera el resultado.
+3. Selecciona una categoría (Persona/Personaje o Animal).
+4. Introduce el tema (por ejemplo, "Homer Simpson" o "lobo").
+5. Personaliza los detalles como tipo de imagen, ubicación, iluminación o momento del día.
+6. Pulsa "Generar Imagen" y espera el resultado.
+
+## Contribuyentes
+- [@jesusact](https://github.com/jesusact)  
+- [@boorjabraavo21](https://github.com/boorjabraavo21)
+
 
 ## Contribuyentes
 - [@jesusact](https://github.com/jesusact)  
