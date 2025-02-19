@@ -40,3 +40,8 @@ Este proyecto es una aplicación web creada con Streamlit que permite generar im
 3. Selecciona una categoría y personaliza los detalles de la imagen.
 4. Pulsa "Generar Imagen" y espera el resultado.
 
+## Contribuyentes
+- [@jesusact](https://github.com/jesusact)  
+- [@boorjabraavo21](https://github.com/boorjabraavo21)  
+
+
