@@ -17,7 +17,7 @@ lightings = ["focos", "luces de neón", "iluminación suave y ambiental"]
 times = ["amanecer", "atardecer", "noche", "bajo la lluvia", "con nieve"]
 
 # Interfaz de Streamlit
-st.title("Generador de Imágenes AI de Los Simpsons 🎨")
+st.title("Generador de Imágenes AI de Los Simpsons 😶‍🌫️")
 st.sidebar.header("Opciones de Generación")
 
 # Selección de categoría y entrada personalizada
